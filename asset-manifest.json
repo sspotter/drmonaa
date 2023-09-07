@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drmonaa/static/css/main.073c9b0a.css",
+    "main.js": "/drmonaa/static/js/main.b43c3ef9.js",
+    "static/js/787.cd3e81ba.chunk.js": "/drmonaa/static/js/787.cd3e81ba.chunk.js",
+    "static/media/logo.svg": "/drmonaa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/drmonaa/index.html",
+    "main.073c9b0a.css.map": "/drmonaa/static/css/main.073c9b0a.css.map",
+    "main.b43c3ef9.js.map": "/drmonaa/static/js/main.b43c3ef9.js.map",
+    "787.cd3e81ba.chunk.js.map": "/drmonaa/static/js/787.cd3e81ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b43c3ef9.js"
+  ]
+}
